@@ -12,6 +12,10 @@ public class SampleSample {
 		System.out.println("***********");
 		System.out.println("Joey, Chandler, Ross, Monica, Phoebe, Rachel");
 		System.out.println("Friends Forever");
+		
+		System.out.println("############");
+		System.out.println("Jennifer, Lisa, Matt Leblanc, David Schimmer, Courtney");
+		System.out.println("Friends cast original names");
 	}
 
 }
